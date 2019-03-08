@@ -1,3 +1,3 @@
-### The Algolia Search Engine and Database is currently disabled
+### The Coin Comparators Algolia Search Engine and Database is currently disabled 
 
-#### It will be re-enabled ~April 2019
+#### I will re-enable ~April 2019
